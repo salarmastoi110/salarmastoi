@@ -1,44 +1,50 @@
 # salarmastoi
 My GitHub profile showcasing projects, AI tools, web development, and learning journey.
 
-# Hi, I'm Salar Mastoi
+<h1 align="center"> Salaam! I'm Salar Hussain Mastoi </h1>
+<p align="center"> AI & Data Science Explorer | Urdu Voice Assistant Developer | Founder - TezUmeed School System Shahdadkot</p>
 
-🎓 AI & Data Science Enthusiast | 🧠 Tech Explorer | 💡 Building Smart Solutions  
-Welcome to my GitHub! I’m passionate about artificial intelligence, creative web development, and building useful tools for the future.
+### 🌟 About Me
 
-🚀 Current Focus
+- 💡 Working on a **local Urdu+English Voice Assistant**
+- 📚 Learning **Data Science**, **Python Automation**, and **Web Development**
+- 🏫 Founder of **TezUmeed School System Shahdadkot**
+- 🔗 Currently building tools to help in **education, automation, and AI in local languages**
+- 🎯 Goal: To bring tech solutions to everyday life in Pakistan, especially in Urdu
 
-- 🤖 **Voice Assistant Bot** – “Sir Salaar” with GUI, commands & smart replies  
-- 🧠 **Sindhi AI Project** – NLP tools for translation & chatbots  
-- 👕 **E-Commerce T-Shirt Website** – Full-stack store with product catalog & orders  
-- 📱 **Android AI App** – Educational Q&A app with Firebase & user login  
-- 🏥 **Civil Hospital Dadu Website** – Admin login, appointment system (Python + MySQL)
+### 🛠️ Tools & Tech Stack
 
-## 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-| AI/ML | Web Dev | Mobile | Tools |
-|------|--------|--------|-------|
-| Python, NumPy, Pandas, Scikit-learn | HTML, CSS, JavaScript, React | Android Studio, Firebase | Git, GitHub, VS Code, MySQL |
+### 📌 Pinned Projects
 
-📊 GitHub Stats
+Here are some highlights of my recent work:
 
-![Salar's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarmastoi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi&layout=compact&theme=tokyonight)
+- 🔊 [AI Urdu Voice Assistant](https://github.com/username/ai-urdu-assistant)
+- 🏫 [TezUmeed School Website](https://github.com/username/tezumeed-school)
+- 📊 [Data Science Projects](https://github.com/username/data-science-projects)
+- 🎥 [YouTube Automation Scripts](https://github.com/username/youtube-automation)
 
-📜 Certifications
+### 📈 GitHub Stats
 
-- ✅ Google AI Essentials – Generative AI & Prompting  
-- 📘 Python for Beginners  
-- 🔐 Introduction to Cybersecurity  
-- 🏅 More coming soon...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salarhussainmastoi&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salarhussainmastoi&theme=tokyonight" width="47%" />
+</p>
 
 
-📫 Connect With Me
+### 📫 Contact Me
 
-- 📧 Email: [learnwithsalar@gmail.com](mailto:learnwithsalar@gmail.com)  
-- 🔗 LinkedIn: [Salar Mastoi](https://www.linkedin.com/in/salar-mastoi-654799215)  
-- 📱 Telegram: [@learnwithsalar](https://t.me/learnwithsalar)  
-- 📷 Instagram: [@techfusioninsights](https://instagram.com/techfusioninsights)
+- Gmail: salarhussainmastoi@gmail.com  
+- LinkedIn: [linkedin.com/in/salarhussainmastoi](https://linkedin.com/in/salarhussainmastoi)  
+- Website: [TezUmeed School](https://your-link.com) *(update with your domain)*
 
-> _"Learning every day, building every night."_  
-> Follow my journey as I build smart tools and powerful apps that make a difference.
+### 💬 Motto
+
+> "علم، امید اور ٹیکنالوجی سے بہتر کل کی تعمیر!"  
+> *(Building a better tomorrow with knowledge, hope, and technology)*
