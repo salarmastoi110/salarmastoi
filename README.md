@@ -16,8 +16,8 @@
 
 ## 💡 About Me
 
-- 🧠 I'm passionate about **AI**, **Data Science**, and **Machine Learning**.
-- 🏫 Founder of **TezUmeed School System Shahdadkot** — empowering local education.
+-  I'm passionate about **AI**, **Data Science**, and **Machine Learning**.
+- 🏫 Student of **Quaid-e-Awam University Sakrand Road, Nawabshah, Sindh, Pakistan**.
 - 🗣️ Building Urdu-English **voice-controlled AI assistants** and tools.
 - 💻 I create impactful projects in **Computer Vision**, **Voice AI**, **Dashboards**, and **Automation**.
 - 🎬 I post daily **educational + tech vlogs** on TikTok, Instagram, and YouTube.
