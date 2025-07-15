@@ -1,50 +1,84 @@
-# salarmastoi
-My GitHub profile showcasing projects, AI tools, web development, and learning journey.
-
-<h1 align="center"> Salaam! I'm Salar Hussain Mastoi </h1>
-<p align="center"> AI & Data Science Explorer | Urdu Voice Assistant Developer | Founder - TezUmeed School System Shahdadkot</p>
-
-### 🌟 About Me
-
-- 💡 Working on a **local Urdu+English Voice Assistant**
-- 📚 Learning **Data Science**, **Python Automation**, and **Web Development**
-- 🏫 Founder of **TezUmeed School System Shahdadkot**
-- 🔗 Currently building tools to help in **education, automation, and AI in local languages**
-- 🎯 Goal: To bring tech solutions to everyday life in Pakistan, especially in Urdu
-
-### 🛠️ Tools & Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
-### 📌 Pinned Projects
-
-Here are some highlights of my recent work:
-
-- 🔊 [AI Urdu Voice Assistant](https://github.com/username/ai-urdu-assistant)
-- 🏫 [TezUmeed School Website](https://github.com/username/tezumeed-school)
-- 📊 [Data Science Projects](https://github.com/username/data-science-projects)
-- 🎥 [YouTube Automation Scripts](https://github.com/username/youtube-automation)
-
-### 📈 GitHub Stats
-
+<!-- 🌟 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salarhussainmastoi&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salarhussainmastoi&theme=tokyonight" width="47%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Welcome%20to%20Salar%20Mastoi's%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
+<!-- 🙋 Name and Subtitle -->
+<h1 align="center">✨ Hi, I'm <span style="color:#FFD700;">Salar Mastoi</span> 💼</h1>
+<h3 align="center">Data Scientist 📊 | AI Developer 🤖 | Educator 📚 | Vlogger 🎥 | Lifelong Learner 🔁</h3>
 
-### 📫 Contact Me
+<!-- 💬 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Smart+AI+Solutions;Crafting+Educational+Experiences;Creating+Content+that+Inspires;Python+%7C+ML+%7C+Computer+Vision+%7C+Voice+AI" alt="Typing animation" />
+</p>
 
-- Gmail: salarhussainmastoi@gmail.com  
-- LinkedIn: [linkedin.com/in/salarhussainmastoi](https://linkedin.com/in/salarhussainmastoi)  
-- Website: [TezUmeed School](https://your-link.com) *(update with your domain)*
+---
 
-### 💬 Motto
+## 💡 About Me
 
-> "علم، امید اور ٹیکنالوجی سے بہتر کل کی تعمیر!"  
-> *(Building a better tomorrow with knowledge, hope, and technology)*
+- 🧠 I'm passionate about **AI**, **Data Science**, and **Machine Learning**.
+- 🏫 Founder of **TezUmeed School System Shahdadkot** — empowering local education.
+- 🗣️ Building Urdu-English **voice-controlled AI assistants** and tools.
+- 💻 I create impactful projects in **Computer Vision**, **Voice AI**, **Dashboards**, and **Automation**.
+- 🎬 I post daily **educational + tech vlogs** on TikTok, Instagram, and YouTube.
+- 🌐 Portfolio: [**Coming Soon**](https://github.com/salarmastoi110)
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,streamlit,docker,git,github,vscode,html,css,js,react,nextjs,tailwind,figma,excel" />
+</p>
+
+---
+
+<!-- 🎥 Content Creation Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="320px" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salarmastoi110&theme=maroongold&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&theme=maroongold&hide_border=false&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&layout=compact&theme=maroongold&hide_border=false" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salarmastoi110/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/salarmastoi110/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@salarmastoi110">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://github.com/salarmastoi110">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@salarmastoi110">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- 🌷 Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" />
+</p>
